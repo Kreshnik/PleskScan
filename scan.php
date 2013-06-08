@@ -5,7 +5,7 @@
 # Version     : 0.1
 # Author      : Kreshnik Hasanaj
 # Mail        : kreshnik.hasanaj@gmail.com
-# WebPage     : http://selftaughtgeek.info
+# WebPage     : http://selftaughtgeek.wordpress.com
 # Purpose     : Scan url for Plesk Panels
 # Usage       : At your own risk  (This is for learning purpose only)
 # Format      : www.page.com or page.com
